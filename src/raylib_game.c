@@ -73,7 +73,7 @@ int main(void)
 {
     // Initialization
     //---------------------------------------------------------
-    InitWindow(screenWidth, screenHeight, "raylib game template");
+    InitWindow(screenWidth, screenHeight, "KATRO");
 
     InitAudioDevice();      // Initialize audio device
 
