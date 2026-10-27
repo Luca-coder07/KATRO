@@ -1,2 +1,2 @@
 # KATRO
-Jeu Malagasy Katro made with Raylib 5.5
+Jeu Malagasy Katro made with Raylib 6.2
